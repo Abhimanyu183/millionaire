@@ -1,0 +1,508 @@
+[
+  {
+    "id": 1,
+    "question": "What does not grow on tree according to a popular Hindi saying",
+    "answers": [
+      {
+        "text": "Flowers",
+        "correct": false
+      },
+      {
+        "text": "Leaves",
+        "correct": false
+      },
+      {
+        "text": "Money",
+        "correct": true
+      },
+      {
+        "text": "Fruits",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "The purpose of an hourglass is to measure which of these?",
+    "answers": [
+      {
+        "text": "Weight",
+        "correct": false
+      },
+      {
+        "text": "Distance",
+        "correct": false
+      },
+      {
+        "text": "Temperature",
+        "correct": false
+      },
+      {
+        "text": "Time",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "In India, which of these is not a common fuel used to run cars?",
+    "answers": [
+      {
+        "text": "CNG",
+        "correct": false
+      },
+      {
+        "text": "Coal",
+        "correct": true
+      },
+      {
+        "text": "Diesel",
+        "correct": false
+      },
+      {
+        "text": "Petrol",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "With reference to world geography , which of these is incorrect?",
+    "answers": [
+      {
+        "text": "Largest continent - Asia",
+        "correct": false
+      },
+      {
+        "text": "Largest desert - Gobi",
+        "correct": true
+      },
+      {
+        "text": "Largest country - Russia ",
+        "correct": false
+      },
+      {
+        "text": "Largest ocean - Pacific",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "From which country, that has a well known football team, did Brazil gain its independence?",
+    "answers": [
+      {
+        "text": "Spain",
+        "correct": false
+      },
+      {
+        "text": "Italy",
+        "correct": false
+      },
+      {
+        "text": "Portugal",
+        "correct": true
+      },
+      {
+        "text": "France",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Center for Civil Liberties, Ukraine, received the Nobel Prize in which category in 2022?",
+    "answers": [
+      {
+        "text": "Chemistry",
+        "correct": false
+      },
+      {
+        "text": "Literature",
+        "correct": false
+      },
+      {
+        "text": "Physics",
+        "correct": false
+      },
+      {
+        "text": "Peace",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Which of these best-selling children's authors also wrote the screenplay of a James Bond film?",
+    "answers": [
+      {
+        "text": "JK Rowling",
+        "correct": false
+      },
+      {
+        "text": "Roald Dahl",
+        "correct": true
+      },
+      {
+        "text": "CS Lewis",
+        "correct": false
+      },
+      {
+        "text": "Dr Seuss",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Which one of these people has not batted on all five days of a single Test match?",
+    "answers": [
+      {
+        "text": "Mohinder Amarnath",
+        "correct": true
+      },
+      {
+        "text": "ML Jaisimha",
+        "correct": false
+      },
+      {
+        "text": "Ravi Shastri",
+        "correct": false
+      },
+      {
+        "text": "Cheteshwar Pujara",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "The flag of Switzerland has the shape of which mathematical symbol on it, in white?",
+    "answers": [
+      {
+        "text": "Addition",
+        "correct": true
+      },
+      {
+        "text": "Subtraction",
+        "correct": false
+      },
+      {
+        "text": "Multiplication",
+        "correct": false
+      },
+      {
+        "text": "Division",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "At which city did PM Shri Narendra Modi commission India's first indigenous aircraft carrier, INS Vikrant?",
+    "answers": [
+      {
+        "text": "Visakhapatnam",
+        "correct": false
+      },
+      {
+        "text": "Kochi",
+        "correct": true
+      },
+      {
+        "text": "Mumbai",
+        "correct": false
+      },
+      {
+        "text": "Surat",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "What did Mahatma Gandhi famously refer to as 'His Majesty's Hotel'?'",
+    "answers": [
+      {
+        "text": "Prisons",
+        "correct": true
+      },
+      {
+        "text": "Rashtrapati Bhavan",
+        "correct": false
+      },
+      {
+        "text": "Buckingham Palace",
+        "correct": false
+      },
+      {
+        "text": "Trains",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "In 2021, Anita Anand took charge as the Minister of National Defence of which country?",
+    "answers": [
+      {
+        "text": "Canada",
+        "correct": true
+      },
+      {
+        "text": "Norway",
+        "correct": false
+      },
+      {
+        "text": "United Kingdom",
+        "correct": false
+      },
+      {
+        "text": "Fiji",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "With respect to an hnour at the ODI World Cup, who comes next in the sequence?",
+    "answers": [
+      {
+        "text": "MS Dhoni",
+        "correct": false
+      },
+      {
+        "text": "Yuvraj Singh",
+        "correct": true
+      },
+      {
+        "text": "Mitchell Starc",
+        "correct": false
+      },
+      {
+        "text": "Adam Gilchrist",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "The news of which of these was announced in the papers in London on the day of the coronation of Queen Elizabeth II?",
+    "answers": [
+      {
+        "text": "Launch of Sputnik",
+        "correct": false
+      },
+      {
+        "text": "Moon Landing",
+        "correct": false
+      },
+      {
+        "text": "First heart transplant",
+        "correct": false
+      },
+      {
+        "text": "Summiting of Mt Everest",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Which is the only place in the Northern Hemisphere where you will find penguins?",
+    "answers": [
+      {
+        "text": "Baffin island",
+        "correct": false
+      },
+      {
+        "text": "Alaska",
+        "correct": false
+      },
+      {
+        "text": "Galapagos islands",
+        "correct": true
+      },
+      {
+        "text": "Greenland",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "The English name for which of these items has its  origin in an Indian language?",
+    "answers": [
+      {
+        "text": "Ginger",
+        "correct": true
+      },
+      {
+        "text": "Banana",
+        "correct": false
+      },
+      {
+        "text": "Pumpkin",
+        "correct": false
+      },
+      {
+        "text": "Coffee",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Who is the first Indian to score a century in women's T20 International cricket?",
+    "answers": [
+      {
+        "text": "Mithali Raj",
+        "correct": false
+      },
+      {
+        "text": "Smriti Mandhana",
+        "correct": false
+      },
+      {
+        "text": "Taniya Bhatia",
+        "correct": false
+      },
+      {
+        "text": "Harmanpreet Kaur",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Who was the first woman to present the Union Budget in the Lok Sabha?",
+    "answers": [
+      {
+        "text": "Nirmala Sitharaman",
+        "correct": false
+      },
+      {
+        "text": "Meira Kumar",
+        "correct": false
+      },
+      {
+        "text": "Sarojni Naidu",
+        "correct": false
+      },
+      {
+        "text": "Indira Gandhi",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Who is the only woman to have served as the Chief Minister of Madhya Pradesh?",
+    "answers": [
+      {
+        "text": "Smt Sushma Swaraj",
+        "correct": false
+      },
+      {
+        "text": "Smt Meira kumar",
+        "correct": false
+      },
+      {
+        "text": "Sushri Uma Bharti",
+        "correct": true
+      },
+      {
+        "text": "Indira Gandhi",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "In June 2023, the 'New Delhi Hall' was inaugurated at the SCO Secretariat in which city?",
+    "answers": [
+      {
+        "text": "Lusaka",
+        "correct": false
+      },
+      {
+        "text": "Tehran",
+        "correct": false
+      },
+      {
+        "text": "Moscow",
+        "correct": false
+      },
+      {
+        "text": "Beijing",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "The currency of which of these countries is named after a bird?",
+    "answers": [
+      {
+        "text": "South Africa",
+        "correct": false
+      },
+      {
+        "text": "Guatemala",
+        "correct": true
+      },
+      {
+        "text": "Bolivia",
+        "correct": false
+      },
+      {
+        "text": "Pakistan",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "The national flag of which of these countries does not have the three most common flag colours - red, white, or blue - in it?",
+    "answers": [
+      {
+        "text": "Cuba",
+        "correct": false
+      },
+      {
+        "text": "Slovakia",
+        "correct": false
+      },
+      {
+        "text": "Mail",
+        "correct": false
+      },
+      {
+        "text": "Jamaica",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "What is unique to the  naming of two elements in the periodic table with atomic numbers 96 and 109, respectively?",
+    "answers": [
+      {
+        "text": "Named after Nobel laureates",
+        "correct": false
+      },
+      {
+        "text": "Named after women scientists",
+        "correct": true
+      },
+      {
+        "text": "Named after Indian scientists",
+        "correct": false
+      },
+      {
+        "text": "They are unnamed",
+        "correct": false
+      }
+    ]
+  }
+]
